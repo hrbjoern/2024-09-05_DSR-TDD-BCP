@@ -48,7 +48,7 @@ def test_calculate_product(number, lst, expected_result):
 # Importing the mean function from SciPy library
 # from scipy.stats import describe
 
-# Test function to calculate the sum of three numbers
+# Test function to calculate the sum of three numbers:
 
 
 def calculate_sum(a, b, c):
