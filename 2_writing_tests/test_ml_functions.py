@@ -5,7 +5,7 @@ import allure
 from scipy import stats
 import numpy as np
 
-from ml_functions import mean, median, mode
+from ml_functions import mean, median, mode        
 
 # Function to calculate the product of a number and elements of a list
 def calculate_product(number, lst):
